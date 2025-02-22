@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zakariyae</h1>
 <h3 align="center">A passionate Web developer</h3>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning **laravel**
 
 - 📫 How to reach me **zakariyaeaitali@gmail.com**
 
 - ⚡ Fun fact **the chicken is eggable**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
