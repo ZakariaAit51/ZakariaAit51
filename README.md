@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **laravel, livewire**
 
 - 📫 How to reach me **zakariyaeaitali@gmail.com**
 
